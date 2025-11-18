@@ -6,7 +6,7 @@ import os
 # এখানে আপনার তথ্যগুলো বসান (ডাবল কোটেশনের ভেতরে)
 # ==========================================
 USER_CONFIG = {
-    "GITHUB_TARGET_USER": "target_username",  # যার গিটহাব থেকে চুরি/কপি করবেন তার নাম
+    "GITHUB_TARGET_USER": "errx4",  # যার গিটহাব থেকে চুরি/কপি করবেন তার নাম
     "MY_GITHUB_TOKEN": "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",    # আপনার গিটহাব টোকেন (ধাপ ২ থেকে পাওয়া)
     "BOT_TOKEN": "8543918845:AAH3NORv4MJhb6_ywUsRPP-K0BIqr-p50S0",           # আপনার টেলিগ্রাম বট টোকেন (ধাপ ১ থেকে পাওয়া)
     "CHAT_ID": "6389465702",                   # আপনার চ্যাট আইডি (ধাপ ১ থেকে পাওয়া)
