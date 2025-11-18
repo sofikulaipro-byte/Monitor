@@ -7,9 +7,9 @@ import os
 # ==========================================
 USER_CONFIG = {
     "GITHUB_TARGET_USER": "target_username",  # যার গিটহাব থেকে চুরি/কপি করবেন তার নাম
-    "MY_GITHUB_TOKEN": "ghp_xxxxxxxxxxxx",    # আপনার গিটহাব টোকেন (ধাপ ২ থেকে পাওয়া)
+    "MY_GITHUB_TOKEN": "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",    # আপনার গিটহাব টোকেন (ধাপ ২ থেকে পাওয়া)
     "BOT_TOKEN": "8543918845:AAH3NORv4MJhb6_ywUsRPP-K0BIqr-p50S0",           # আপনার টেলিগ্রাম বট টোকেন (ধাপ ১ থেকে পাওয়া)
-    "CHAT_ID": "123456789",                   # আপনার চ্যাট আইডি (ধাপ ১ থেকে পাওয়া)
+    "CHAT_ID": "6389465702",                   # আপনার চ্যাট আইডি (ধাপ ১ থেকে পাওয়া)
     "CHECK_TIME": 15                          # কত সেকেন্ড পর পর চেক করবে
 }
 # ==========================================
